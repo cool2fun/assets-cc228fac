@@ -1,0 +1,131 @@
+{
+  "name": "Two Ball 3D",
+  "slug": "two-ball-3d",
+  "entryUrl": "https://files.twoplayergames.org/files/games/other/TwoBall3D/index.html",
+  "capturedAt": "2026-07-22T10:13:04.268Z",
+  "navigationError": null,
+  "assets": [
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/index.html",
+      "file": "index.html",
+      "bytes": 841,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/TemplateData/style.css",
+      "file": "TemplateData/style.css",
+      "bytes": 2189,
+      "status": 200,
+      "type": "stylesheet",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/TemplateData/UnityProgress.javascript",
+      "file": "TemplateData/UnityProgress.javascript",
+      "bytes": 1186,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/TemplateData/responsive.javascript",
+      "file": "TemplateData/responsive.javascript",
+      "bytes": 2824,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/Build/UnityLoader.js",
+      "file": "Build/UnityLoader.js",
+      "bytes": 157128,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/Build/TwoBall3D.json",
+      "file": "Build/TwoBall3D.json",
+      "bytes": 430,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/Build/TwoBall3D.jpg",
+      "file": "Build/TwoBall3D.jpg",
+      "bytes": 7364,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/TemplateData/progressEmpty.Dark.png",
+      "file": "TemplateData/progressEmpty.Dark.png",
+      "bytes": 155,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/TemplateData/progressLogo.Dark.png",
+      "file": "TemplateData/progressLogo.Dark.png",
+      "bytes": 2343,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/TemplateData/progressFull.Dark.png",
+      "file": "TemplateData/progressFull.Dark.png",
+      "bytes": 137,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/Build/TwoBall3D.wasm.framework.unityweb",
+      "file": "Build/TwoBall3D.wasm.framework.unityweb",
+      "bytes": 92799,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/Build/TwoBall3D.wasm.code.unityweb",
+      "file": "Build/TwoBall3D.wasm.code.unityweb",
+      "bytes": 4784736,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/Build/TwoBall3D.data.unityweb",
+      "file": "Build/TwoBall3D.data.unityweb",
+      "bytes": 3816789,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/octet-stream"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-07-22T10:43:00.839Z",
+    "navigationError": null,
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Failed to load resource: net::ERR_CONNECTION_REFUSED"
+    ],
+    "pageErrors": [],
+    "failedAssets": [
+      "https://config.uca.cloud.unity3d.com/ :: net::ERR_CONNECTION_REFUSED"
+    ],
+    "remoteRequests": [
+      "https://config.uca.cloud.unity3d.com/",
+      "https://cdp.cloud.unity3d.com/v1/events"
+    ],
+    "status": "done"
+  }
+}
