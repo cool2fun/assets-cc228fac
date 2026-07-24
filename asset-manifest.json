@@ -94,6 +94,14 @@
       "contentType": "application/octet-stream"
     },
     {
+      "url": "local://patched-unity-framework",
+      "file": "Build/TwoBall3D.wasm.framework.js",
+      "bytes": 485817,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
       "url": "https://files.twoplayergames.org/files/games/other/TwoBall3D/Build/TwoBall3D.wasm.code.unityweb",
       "file": "Build/TwoBall3D.wasm.code.unityweb",
       "bytes": 4784736,
